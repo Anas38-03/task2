@@ -1,0 +1,15 @@
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\bin\Debug\net10.0\task_2.exe
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\bin\Debug\net10.0\task_2.deps.json
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\bin\Debug\net10.0\task_2.runtimeconfig.json
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\bin\Debug\net10.0\task_2.dll
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\bin\Debug\net10.0\task_2.pdb
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\obj\Debug\net10.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\obj\Debug\net10.0\task_2.AssemblyInfoInputs.cache
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\obj\Debug\net10.0\task_2.AssemblyInfo.cs
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\obj\Debug\net10.0\task_2.csproj.CoreCompileInputs.cache
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\obj\Debug\net10.0\task_2.dll
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\obj\Debug\net10.0\refint\task_2.dll
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\obj\Debug\net10.0\task_2.pdb
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\obj\Debug\net10.0\task_2.genruntimeconfig.cache
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\obj\Debug\net10.0\ref\task_2.dll
+C:\Users\ONE BY ONE\Desktop\C#\02-task\02task\02task\obj\Debug\net10.0\task_2.csproj.Up2Date
